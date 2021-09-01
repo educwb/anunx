@@ -16,3 +16,6 @@ https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_app.js
 
 _document.js
 https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_document.js
+
+signin.js
+https://github.com/mui-org/material-ui/blob/master/docs/src/pages/getting-started/templates/sign-in-side/SignInSide.js
