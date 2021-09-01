@@ -1,2 +1,14 @@
 git remote add origin git@github.com:educwb/anunx.git
 
+________________________________________________________________________________________________________________________________
+Módulo 33 - Projeto Final
+
+Estrutura Inicial do Projeto
+
+yarn add @material-ui/core
+yarn add @material-ui/icons
+
+_app.js
+https://material-ui.com/guides/server-rendering/#material-ui-on-the-server
+https://github.com/mui-org/material-ui/tree/master/examples/nextjs
+https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_app.js
