@@ -8,7 +8,11 @@ Estrutura Inicial do Projeto
 yarn add @material-ui/core
 yarn add @material-ui/icons
 
-_app.js
 https://material-ui.com/guides/server-rendering/#material-ui-on-the-server
 https://github.com/mui-org/material-ui/tree/master/examples/nextjs
+
+_app.js
 https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_app.js
+
+_document.js
+https://github.com/mui-org/material-ui/blob/master/examples/nextjs/pages/_document.js
