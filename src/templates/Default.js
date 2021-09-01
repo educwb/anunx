@@ -1,8 +1,9 @@
+import Header from '../components/Header'
 
 const Default = ({children}) => {
   return (
     <div>
-      <header>Header</header>
+      <Header />
       {children}
       <footer>Footer</footer>
     </div>
